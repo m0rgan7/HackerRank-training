@@ -10,10 +10,10 @@ Where:
 
 ![alt text](image.png)
 
-m is the slope of the regression line,
-x and y are the data points,
-x and y are the means of the -values and -values, respectively,
-n is the number of data points.
+- m is the slope of the regression line,
+- x and y are the data points,
+- x and y are the means of the -values and -values, respectively,
+- n is the number of data points.
 Output Format
 
 In the text box, enter the floating point/decimal value required. Do not leave any leading or trailing spaces. Your answer may look like: 0.255

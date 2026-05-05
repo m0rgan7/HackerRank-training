@@ -5,7 +5,9 @@ History Scores  10  25  17  11  13  17  20  13  9   15
 Pearson's Correlation Coefficient
 
 Where:
+
 ![alt text](image.png)
+
 - r is Pearson's correlation coefficient,
 -  and x are the individual sample points,
 -  and y are the means of the  and  values,
