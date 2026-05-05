@@ -4,7 +4,9 @@ Physics Scores  15  12  8   8   7   7   7   6   5   3
 History Scores  10  25  17  11  13  17  20  13  9   15
 Pearson's Correlation Coefficient
 
-Where: - r is Pearson's correlation coefficient,
+Where:
+![alt text](image.png)
+- r is Pearson's correlation coefficient,
 -  and x are the individual sample points,
 -  and y are the means of the  and  values,
 -  is the number of data points.
